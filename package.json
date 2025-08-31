@@ -1,0 +1,15 @@
+{
+  "name": "basicexpresssetup",
+  "version": "1.0.0",
+  "description": "Basic sserver SetUp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Vivaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
